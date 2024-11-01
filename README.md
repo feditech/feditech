@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  />
 
----
+
 [![](https://visitcount.itsvg.in/api?id=feditech&icon=0&color=11)](https://visitcount.itsvg.in)
 
 <p align="left"> <a href="https://twitter.com/fahdforr" target="blank"><img src="https://img.shields.io/twitter/follow/fahdforr?logo=twitter&style=for-the-badge" alt="fahdforr" /></a> </p>
