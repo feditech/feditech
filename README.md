@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fahad</h1>
 <h3 align="center">A passionate developer from pakistan</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=feditech&icon=0&color=11)](https://visitcount.itsvg.in)
