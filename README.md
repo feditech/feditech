@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning **Data Science**
 - 💬 Ask me about **React, Vue, and GSAP**
 - 📫 How to reach me: **fahdforr@gmail.com**
-- 👨‍💻 All of my projects are available at [Portfolio](https://techinsta.pro)
-- 📝 I regularly write articles on [Blog Link](#)
+- 👨‍💻 All of my projects are available at [Portfolio](https://fahadshahzad.me/)
+- 📝 I regularly write articles on [Medium](https://medium.com/@fahdforr)
 - 📄 Know about my experiences on [Resume Link](#)
 - ⚡ Fun fact: **I think I am funny**
 
