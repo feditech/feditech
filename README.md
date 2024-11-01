@@ -2,6 +2,8 @@
 <h3 align="center">A passionate developer from pakistan</h3>
 
 
+---
+[![](https://visitcount.itsvg.in/api?id=feditech&icon=0&color=11)](https://visitcount.itsvg.in)
 
 <p align="left"> <a href="https://twitter.com/fahdforr" target="blank"><img src="https://img.shields.io/twitter/follow/fahdforr?logo=twitter&style=for-the-badge" alt="fahdforr" /></a> </p>
 
@@ -64,8 +66,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=feditech&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=feditech&icon=0&color=11)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
 <p><a href="https://www.buymeacoffee.com/fahadsheikh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fahadsheikh" /></a></p><br><br>
