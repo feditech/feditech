@@ -1,3 +1,4 @@
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Fahad Sheikh</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 
@@ -7,8 +8,8 @@
 - 🌱 I’m currently learning **Data Science**
 - 💬 Ask me about **React, Vue, and GSAP**
 - 📫 How to reach me: **fahdforr@gmail.com**
-- 👨‍💻 All of my projects are available at [Portfolio](https://fahadshahzad.me/)
-- 📝 I regularly write articles on [Medium](https://medium.com/@fahdforr)
+- 👨‍💻 All of my projects are available at [Portfolio](https://techinsta.pro)
+- 📝 I regularly write articles on [Blog Link](#)
 - 📄 Know about my experiences on [Resume Link](#)
 - ⚡ Fun fact: **I think I am funny**
 
@@ -48,13 +49,13 @@
 
 <!-- Social Links -->
 ### 📫 Connect with me
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/your-github-username)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/feditech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/your-twitter-username)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/fahdforr)
 
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats
-![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=feditech&show_icons=true&theme=radical)
 
 <!-- Dynamic Section for Blogs -->
 ### 📖 Latest Blog Posts
