@@ -1,6 +1,8 @@
 <!-- [![MasterHead](./banner.jpg)](https://fahadshahzad.me/) -->
-<img align="center" src="./banner.png" alt="banner" style="height:200px; object-fit:cover">
+<div style="display:flex; justify-content:center">
 
+<img align="center" src="./banner.png" alt="banner" style="height:200px; object-fit:cover" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Fahad</h1>
 <h3 align="center">A passionate developer from pakistan</h3>
