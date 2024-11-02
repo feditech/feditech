@@ -1,7 +1,7 @@
 <!-- [![MasterHead](./banner.jpg)](https://fahadshahzad.me/) -->
 <div style="background-color:red">
 
-<img align="center" src="./banner.png" alt="banner" style="height:300px; object-fit:cover; width:100%" />
+<img align="center" src="./topbanner.png" alt="banner" style="height:300px; object-fit:cover; width:100%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Fahad</h1>
