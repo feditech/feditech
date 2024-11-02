@@ -1,5 +1,5 @@
 <!-- [![MasterHead](./banner.jpg)](https://fahadshahzad.me/) -->
-<div style="display:flex; justify-content:center">
+<div style="display:flex; justify-content:center; background-color:red">
 
 <img align="center" src="./banner.png" alt="banner" style="height:200px; object-fit:cover" />
 </div>
