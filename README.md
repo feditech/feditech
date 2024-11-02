@@ -1,6 +1,5 @@
 <!-- [![MasterHead](./banner.jpg)](https://fahadshahzad.me/) -->
-// make banner image object fit cover
-<img src="./banner.jpg" alt="banner" style="object-fit: cover; width: 100%; height: 300px;">
+<img src="./banner.jpg" alt="banner" style="object-fit: cover; height: 300px;">
 
 <h1 align="center">Hi 👋, I'm Fahad</h1>
 <h3 align="center">A passionate developer from pakistan</h3>
