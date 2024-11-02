@@ -1,5 +1,5 @@
 <!-- [![MasterHead](./banner.jpg)](https://fahadshahzad.me/) -->
-<img src="./banner.jpg" alt="banner" style="object-fit: contain; height: 300px; width: 100%;">
+<img src="./banner.jpg" alt="banner" style="">
 
 
 <h1 align="center">Hi 👋, I'm Fahad</h1>
