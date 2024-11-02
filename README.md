@@ -1,7 +1,5 @@
 <!-- [![MasterHead](./banner.jpg)](https://fahadshahzad.me/) -->
-<div style="height: 300px; width: 100%; overflow: hidden; position: relative;">
-    <img src="./banner.jpg" alt="banner" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); height: auto; width: auto; min-width: 100%; min-height: 100%;">
-</div>
+<img src="./banner.jpg" alt="banner" style="object-fit: contain; height: 300px; width: 100%;">
 
 
 <h1 align="center">Hi 👋, I'm Fahad</h1>
