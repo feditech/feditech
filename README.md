@@ -64,6 +64,8 @@
 <a href="https://www.leetcode.com/fahdforr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fahdforr" height="30" width="40" /></a>
 <a href="https://discord.gg/NauYJTejAf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NauYJTejAf" height="30" width="40" /></a> -->
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=feditech&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 
 
@@ -73,8 +75,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=feditech&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=feditech&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=feditech&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 
 ### ✍️ Random Dev Quote
